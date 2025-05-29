@@ -81,6 +81,7 @@ DATABASES = {
     "default": {
         "ENGINE": "djongo",
         "NAME": "octofit_db",
+        
         # Optionally add HOST and PORT if not default
         # "HOST": "localhost",
         # "PORT": 27017,
